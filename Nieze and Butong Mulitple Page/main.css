@@ -1,0 +1,32 @@
+.topSquare{
+    width: 1000px;
+    height: 60px;
+    background-color: black;
+}
+
+.homeBody{
+    background-color: black;
+}
+
+.aboutBody{
+    background-color: rgb(105, 21, 21);
+}
+
+
+
+p{
+    color: rgb(155, 155, 155);
+}
+
+.top{
+    width: 90px;
+    height: 40px;
+    margin-left: -5px;
+    padding: 0;
+    border: none;
+    background-color: rgb(175, 177, 178);
+}
+
+.home{
+    background-image: url(https://cdn.wallpapersafari.com/56/94/joPrET.gif);
+}
